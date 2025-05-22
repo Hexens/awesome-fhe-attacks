@@ -58,6 +58,8 @@
 
 ### Key Recovery Attacks:
 - [Key Recovery Attacks on Approximate Homomorphic Encryption with Non-Worst-Case Noise Flooding Countermeasures](https://www.usenix.org/system/files/sec24summer-prepub-822-guo.pdf)
+- [Adaptive Key Recovery Attacks on NTRU-Based Somewhat Homomorphic Encryption Schemes] (https://eprint.iacr.org/2015/127)
+- [Preventing Adaptive Key Recovery Attacks on the Gentry-Sahai-Waters Leveled Homomorphic Encryption Scheme] (https://eprint.iacr.org/2016/1146)
 - [A Practical Full Key Recovery Attack on TFHE and FHEW by Inducing Decryption Errors](https://eprint.iacr.org/2022/1563.pdf)
 - [Securing FHE from Reaction-based Key Recovery Attacks](https://eprint.iacr.org/2023/561.pdf)
 - [On NTRU-ν-um Modulo X^N − 1](https://eprint.iacr.org/2022/1092.pdf)
