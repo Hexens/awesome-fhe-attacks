@@ -104,6 +104,7 @@
 - [Benchmarking Attacks on Learning with Errors (LWE)](https://github.com/facebookresearch/LWE-benchmarking)
 
 ## CTF Challenges
+- [DiceCTF2022 - learning-without-errors](https://ctftime.org/writeup/32265)
 - [PCTF2017 - FHE](https://duksctf.github.io/2017/04/24/PCTF2017-FHE.html)
 - [PHEnomenal](https://ctftime.org/writeup/27171)
 - [CryptoCTF 2021 Lower](https://11dimensions.moe/archives/267)
