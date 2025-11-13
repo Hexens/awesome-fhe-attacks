@@ -39,7 +39,6 @@
 - [On the Practical CPAD Security of "Exact" and Threshold FHE Schemes and Libraries](https://eprint.iacr.org/2024/116.pdf)
 - [On the Security of Homomorphic Encryption on Approximate Numbers](https://eprint.iacr.org/2020/1533.pdf)
 - [Securing Approximate Homomorphic Encryption using Differential Privacy](https://eprint.iacr.org/2022/816.pdf)
-- [Unveiling the (in)Security of Threshold FHE-based Federated Learning: The Practical Impact of Recent CPAD Attacks](https://hal.science/hal-05105133v1/document)
 
 ### Lattice Based Attacks:
 - [A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE](https://eprint.iacr.org/2019/1114.pdf)
@@ -79,7 +78,7 @@
 
 ### Attacks on FHE-based Machine Learning:
 - [Model Stealing Attacks On FHE-based Privacy-Preserving Machine Learning through Adversarial Examples](https://eprint.iacr.org/2023/1665.pdf)
-
+- [Unveiling the (in)Security of Threshold FHE-based Federated Learning: The Practical Impact of Recent CPAD Attacks](https://hal.science/hal-05105133v1/document)
 
 ## Articles
 - [On the Security of FHE in the "Slightly Beyond Passive" Adversary Regime](https://www.linkedin.com/pulse/security-fhe-slightly-beyond-passive-adversary-regime-renaud-sirdey-fen0e/)
