@@ -103,6 +103,7 @@
 - [Lattice Estimator](https://github.com/malb/lattice-estimator)
 - [IND-CPA-D Attacks](https://github.com/hmchoe0528/INDCPAD_HE_ThresFHE)
 - [Benchmarking Attacks on Learning with Errors (LWE)](https://github.com/facebookresearch/LWE-benchmarking)
+- [Federated Learning with RLWE-like Perturbations](https://github.com/Akram275/CPA-D-vulnerabilities-in-FL)
 
 ## CTF Challenges
 - [DiceCTF2022 - learning-without-errors](https://ctftime.org/writeup/32265)
